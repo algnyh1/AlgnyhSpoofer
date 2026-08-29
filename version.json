@@ -1,5 +1,5 @@
 {
-  "version": "2.3",
+  "version": "2.5",
   "downloadUrl": "https://github.com/algnyh1/AlgnyhSpoofer/releases/download/v2.1/Algnyh.exe",
   "changelog": "- Added Universal 8-Stage Clean & Spoof\n- Added Physical SSD/NVMe Serial Spoofing\n- Added Automatic Router Public IP Renewal\n- Enhanced FiveM & Rust Cerberus bypass",
   "mandatory": false
